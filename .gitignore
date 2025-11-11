@@ -47,3 +47,5 @@ logs/
 *.bak
 *.swp
 *~
+
+INTERVIEW_GUIDE.md
